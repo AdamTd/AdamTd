@@ -1,5 +1,5 @@
 # 💫 Hello I am Adam Tadesse:
-Hello! I’m a passionate web developer with a strong foundation in HTML, CSS, and JavaScript. Currently, I’m expanding my skill set by diving into React, a powerful library that allows me to build dynamic and interactive web applications with ease.<br><br>I’m constantly learning and staying up-to-date with the latest trends and best practices in front-end development.<br>
+I’m a passionate web developer with a strong foundation in HTML, CSS, and JavaScript. Currently, I’m expanding my skill set by diving into React, a powerful library that allows me to build dynamic and interactive web applications with ease.<br><br>I’m constantly learning and staying up-to-date with the latest trends and best practices in front-end development.<br>
 
 
 ## 🌐 Socials:
